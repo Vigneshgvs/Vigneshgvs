@@ -15,29 +15,46 @@ tweets and helps in networking.
 infrastructure built using the CloudFormation template.
 ■ Technology Stack: AWS (VPC, EC2, IAM, CloudFormation, Route53, S3, SES, CloudWatch, CodeDeploy), ReactJS, JavaScript, NodeJS, React Router, Express.js, REST API, Sequelize, MySQL
 
-# Technologies
-Java, ReactJS, AWS, Javascript, NodeJS, ExpressJS, Spring, Spring Boot, SQL, MySQL, PostgreSQL, MongoDB, Python
+# Technologies	       
+Programming Languages:
+ C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift
+Frameworks/Libraries: 
+ React, React Native, Spring MVC, Spring Boot, ExpressJS, REST, GraphQL, Hibernate, Sequelize, Mongoose, Sass, TensorFlow, Unity, Unreal Engine, Cocoa Touch, UIKit, SwiftUI, Kafka, Expo
+DevOps:
+ AWS, GCP, Node.js, CI/CD- GitHub, Jenkins, IAC- Ansible, Terraform, CloudFormation, Kubernetes, Docker, Istio
+Tools: 
+ Figma, Maven, Packer, Blender, Git, SVN, SonarQube, Splunk, Jira, Fluentd, Prometheus, Grafana, Kibana, Xcode
+Databases: 
+ Oracle, PostgreSQL, MySQL, SQLite, NoSQL- MongoDB, Elasticsearch, Firebase
 
 
 # Work Experience
-## Infosys Ltd. | Chennai, India
-### Technology Analyst | Aug 2020 – Aug 2021
+## iOS Engineer Intern
+### Diall LLC | Boston | Jan 2023 - Apr 2023
+● Developed a React Native app from scratch, where users and licensed therapists can interact with each other regarding mental health.
+● Developed various features in the app ensuring intuitive functionality and cross-platform compatibility.
+● Designed and implemented a user-friendly social media interface, allowing seamless browsing of user-generated video feeds.
+Technology Stack: React Native, Firebase, AWS, Express.js, React.js, Expo 
+## Technology Analyst 
+### Infosys Ltd. | Chennai, India | Aug 2020 – Aug 2021
 Client: Bank of America
-■ Improved bank customer experience by providing faster, optimized check image capture, upload, and automated deposit features.
-■ Designed, implemented, and tested APIs in the Check services domain.
-■ Taken leadership role in Scrum ceremonies including Sprint and PI planning, Capacity Management, Backlog Grooming, User Story definitions.
-■ Conducted code reviews, and strategized on improving quality and delivery speed.
+● Improved customer experience by providing optimized capture and upload of bank-check images and automated deposit features.
+● Took a leadership role in Scrum ceremonies like Sprint PI planning, Capacity Management, Backlog Grooming, and User Story definitions.
+● Designed, implemented, and tested APIs in the bank’s check services domain. Recognized as a promising member from a team of 25.
 Technology Stack: Java, Spring MVC, REST API, SQL
-### Senior Systems Engineer | Dec 2017 – Aug 2020
+## Senior Systems Engineer 
+### Infosys Ltd. | Chennai, India | Dec 2017 – Aug 2020
 Clients: Verizon, AT&T
-■ Created a new platform for employees to view their schedules on
-upskilling.
-■ Designed, implemented, and tested custom RESTful web
-applications to enable employee scheduling and upskilling. ■ Technical debt: Migrated legacy C code to Java platform. Technology Stack: C, Java, Spring MVC, REST API, Hibernate
-### Systems Engineer | Dec 2015 – Dec 2017 Client: AT&T
-■ Debugged and resolved production defects per SLA standards. ■ Ensured test coverage using JUnit and Selenium test suite.
-■ Generated metrics on project performance, quality and
-reported them.
+● Created a new platform for client employees to view their schedules on upskilling with nil defects and boosted client satisfaction by 20%.
+● Designed, implemented, and tested custom RESTful web applications to enable employee scheduling and upskilling.
+● Conducted code reviews and strategized on improving code quality and delivery speed by extensive unit test coverage & code practices. 
+● Tech debt: Migrated legacy C code to the Java platform by collaborating with an agile team of 15.
+Technology Stack: C, Java, Spring MVC, REST API, Hibernate
+## Systems Engineer
+### Infosys Ltd. | Chennai, India | Dec 2015 – Dec 2017
+Client: AT&T
+● Resolved the most number of critical production defects amongst my team for which I was awarded certification opportunities.
+● Debugged and resolved production defects per SLA standards and maintained a good defect-resolving score for our project
 Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau
 
 
