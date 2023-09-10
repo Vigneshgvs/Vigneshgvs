@@ -1,20 +1,20 @@
 ### Hi there 👋    <p align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</p> 
+# Vignesh Gunasekaran
+<h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
 - 🌱 I’m currently: preparing for my full time job interviews.
 - 👯 I’m looking to collaborate on recent technologies.
-- 🤔 I’m looking for help with full time oppurtunities.
+- 🤔 I’m looking for help with full time opportunities.
 - 💬 Ask me about:  my projects, work experience, or engage in a discussion to determine if I'd be a valuable addition to your team.
 - 📫 How to reach me: Mail me at gunasekaran.v@northeastern.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in their world!" 🎃🎄😆 #ProgrammingPuzzles #NerdyHumor
   
-# About me
-<h3>Vignesh Gunasekaran</h3>
-<h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
+## About me
 ~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
 ~ Looking for full time employment opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
 ~ I have work experience of over 5 years as a Java bck end developer and an internship in app development. </br>
 
-# Academic Projects
+## Academic Projects
 ### Con Nect iOS App | Smartphones Based Web Development | INFO 6350 | Fall 2022
 ● Developed an iOS app that helps people connect to nearby persons’ social handles in real time. </br>
 ● Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard</br>
@@ -38,7 +38,7 @@ JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Pac
 ● Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.</br>
 ● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
 
-# Technologies	       
+## Technologies	       
 Programming Languages:</br>
  C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
 Frameworks/Libraries: </br>
@@ -50,35 +50,34 @@ Tools: </br>
 Databases: </br>
  Oracle, PostgreSQL, MySQL, SQLite, NoSQL- MongoDB, Elasticsearch, Firebase</br>
 
-# Work Experience
-## iOS Engineer Intern
+## Work Experience
+### iOS Engineer Intern
 #### Diall LLC | Boston | Jan 2023 - Apr 2023
 ● Developed a React Native app from scratch, where users and licensed therapists can interact with each other regarding mental health.</br>
 ● Developed various features in the app ensuring intuitive functionality and cross-platform compatibility.</br>
 ● Designed and implemented a user-friendly social media interface, allowing seamless browsing of user-generated video feeds.</br>
-Technology Stack: React Native, Firebase, AWS, Express.js, React.js, Expo </br>
-## Technology Analyst 
+● Technology Stack: React Native, Firebase, AWS, Express.js, React.js, Expo </br>
+### Technology Analyst 
 #### Infosys Ltd. | Chennai, India | Aug 2020 – Aug 2021
-Client: Bank of America</br>
 ● Improved customer experience by providing optimized capture and upload of bank-check images and automated deposit features.</br>
 ● Took a leadership role in Scrum ceremonies like Sprint PI planning, Capacity Management, Backlog Grooming, and User Story definitions.</br>
 ● Designed, implemented, and tested APIs in the bank’s check services domain. Recognized as a promising member from a team of 25.</br>
-Technology Stack: Java, Spring MVC, REST API, SQL</br>
-## Senior Systems Engineer 
+● Technology Stack: Java, Spring MVC, REST API, SQL</br>
+● Client: Bank of America</br>
+### Senior Systems Engineer 
 #### Infosys Ltd. | Chennai, India | Dec 2017 – Aug 2020
-Clients: Verizon, AT&T</br>
 ● Created a new platform for client employees to view their schedules on upskilling with nil defects and boosted client satisfaction by 20%.</br>
 ● Designed, implemented, and tested custom RESTful web applications to enable employee scheduling and upskilling.</br>
 ● Conducted code reviews and strategized on improving code quality and delivery speed by extensive unit test coverage & code practices. </br>
 ● Tech debt: Migrated legacy C code to the Java platform by collaborating with an agile team of 15.</br>
-Technology Stack: C, Java, Spring MVC, REST API, Hibernate</br>
-## Systems Engineer
+● Technology Stack: C, Java, Spring MVC, REST API, Hibernate</br>
+● Clients: Verizon, AT&T</br>
+### Systems Engineer
 #### Infosys Ltd. | Chennai, India | Dec 2015 – Dec 2017
-Client: AT&T</br>
 ● Resolved the most number of critical production defects amongst my team for which I was awarded certification opportunities.</br>
 ● Debugged and resolved production defects per SLA standards and maintained a good defect-resolving score for our project</br>
-Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau</br>
-
+● Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau</br>
+● Client: AT&T</br>
 
 <!--
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
