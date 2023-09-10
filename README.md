@@ -1,9 +1,9 @@
 ### Hi there 👋    <p align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</p> 
 
 # About me
-~ I am a graduate student in Information Systems major at NEU @ Boston.
-~ Looking for FTE opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards
-~ I have work experience of over 5 years as a Java developer. 
+~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
+~ Looking for FTE opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
+~ I have work experience of over 5 years as a Java developer. </br>
 
 # Academic Projects
 <h2 border-bottom='none'> Northeastern University | MS in Information Systems</h2>
