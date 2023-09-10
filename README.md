@@ -39,7 +39,7 @@ JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Pac
 ● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
 
 ## Technologies	       
-<u><i style="font-size: smaller;">Programming Languages:</i></u> C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
+<span style="font-size: smaller; display: inline-block; margin-left: 20px;">Programming Languages:</span> C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
 <i style="font-size: smaller;">Frameworks/Libraries:</i> React, React Native, Spring MVC, Spring Boot, ExpressJS, REST, GraphQL, Hibernate, Sequelize, Mongoose, Sass, TensorFlow, Unity, Unreal Engine, Cocoa Touch, UIKit, SwiftUI, Kafka, Expo</br>
 <i style="font-size: smaller;">DevOps:</i> AWS, GCP, Node.js, CI/CD- GitHub, Jenkins, IAC- Ansible, Terraform, CloudFormation, Kubernetes, Docker, Istio</br>
 <i style="font-size: smaller;">Tools:</i> Figma, Maven, Packer, Blender, Git, SVN, SonarQube, Splunk, Jira, Fluentd, Prometheus, Grafana, Kibana, Xcode</br>
