@@ -1,21 +1,35 @@
 ### Hi there 👋    <p align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</p> 
 
 # About me
+<h3>Vignesh Gunasekaran</h3>
+<h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
 ~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
-~ Looking for FTE opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
-~ I have work experience of over 5 years as a Java developer. </br>
+~ Looking for full time employment opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
+~ I have work experience of over 5 years as a Java bck end developer and an internship in app development. </br>
 
 # Academic Projects
-<h2 border-bottom='none'> Northeastern University | MS in Information Systems</h2>
-### NEU Tweet | Web Design and User Experience | Fall 2021
-■ Developed a Twitter alike website for university members.
-■ NEU Tweet allows faculty and students to express their views as
-tweets and helps in networking.
-■ Technology Stack: ReactJS, HTML, CSS, Sass, JavaScript, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, CloudinaryApi
-### UserApp | Network Structures and Cloud Computing | Spring 2022
-■ Developed a web service and hosted on a domain using certain AWS
-infrastructure built using the CloudFormation template.
-■ Technology Stack: AWS (VPC, EC2, IAM, CloudFormation, Route53, S3, SES, CloudWatch, CodeDeploy), ReactJS, JavaScript, NodeJS, React Router, Express.js, REST API, Sequelize, MySQL
+### Con Nect iOS App | Smartphones Based Web Development | INFO 6350 | Fall 2022
+● Developed an iOS app that helps people connect to nearby persons’ social handles in real time. 
+● Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard
+### Distributed Computing | Advanced Cloud Computing | CSYE 7125 | Fall 2022
+● Developed a to-do microservice, built it as a private docker image & deployed it using Helm Chart into HA K8s pods whose clusters are 
+set up in AWS & GCP infrastructure that are built using Terraform. Published & consumed topics using Kafka. Logged with EFK stack &
+monitored metrics with Prometheus. Managed communication b/w microservices using Istio service mesh. Automated using Jenkins.
+● Tech stack: AWS, GCP, Terraform, K8s, Docker, Ansible, SpringBoot, Jenkins, Kops, Elasticsearch, Prometheus, Kafka, Jenkins
+### Hawaii Island | Building Virtual Environments | CSYE 7270 | Summer 2022
+● Developed an ‘Adventure Island’-like game and incorporated various Shaders, Materials, Particle Effects, Animations, and AI elements.
+● Tech stack: Unity 3D, C#
+### Cloud Image Storage Services | Network Structures and Cloud Computing | CSYE 6225 | Spring 2022
+● Deployed node microservices on AWS with fully automated CI/CD pipelines for code build and deployed using GitHub Actions & Packer 
+to build AMI & launched EC2 instances using the CloudFormation infrastructure template.
+● Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
+JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Packer
+### NEU First Response | Application Engineering and Development | INFO 5100 | Fall 2021
+● Developed an emergency management system to offer prevention, handling, and documentation of incidents for university members.
+● Tech stack: Java, Swing, db4o
+### NEU Tweet | Web Design and User Experience | INFO 6150| Fall 2021
+● Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.
+● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON
 
 # Technologies	       
 Programming Languages:
@@ -29,10 +43,9 @@ Tools:
 Databases: 
  Oracle, PostgreSQL, MySQL, SQLite, NoSQL- MongoDB, Elasticsearch, Firebase
 
-
 # Work Experience
 ## iOS Engineer Intern
-### Diall LLC | Boston | Jan 2023 - Apr 2023
+#### Diall LLC | Boston | Jan 2023 - Apr 2023
 ● Developed a React Native app from scratch, where users and licensed therapists can interact with each other regarding mental health.
 ● Developed various features in the app ensuring intuitive functionality and cross-platform compatibility.
 ● Designed and implemented a user-friendly social media interface, allowing seamless browsing of user-generated video feeds.
