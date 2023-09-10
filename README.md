@@ -1,13 +1,13 @@
 ### Hi there 👋    <p align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</p> 
-# Vignesh Gunasekaran
+## Vignesh Gunasekaran
 <h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
-- 🌱 I’m currently: preparing for my full time job interviews.
-- 👯 I’m looking to collaborate on recent technologies.
-- 🤔 I’m looking for help with full time opportunities.
-- 💬 Ask me about:  my projects, work experience, or engage in a discussion to determine if I'd be a valuable addition to your team.
-- 📫 How to reach me: Mail me at gunasekaran.v@northeastern.edu
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in their world!" 🎃🎄😆 #ProgrammingPuzzles #NerdyHumor
+- 🌱 I’m currently: preparing for my full time job interviews.</br>
+- 👯 I’m looking to collaborate on recent technologies.</br>
+- 🤔 I’m looking for help with full time opportunities.</br>
+- 💬 Ask me about:  my projects, work experience, or engage in a discussion to determine if I'd be a valuable addition to your team.</br>
+- 📫 How to reach me: Mail me at gunasekaran.v@northeastern.edu</br>
+- 😄 Pronouns: He/Him/His</br>
+- ⚡ Fun fact: "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in their world!" 🎃🎄😆 #ProgrammingPuzzles #NerdyHumor</br>
   
 ## About me
 ~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
@@ -39,16 +39,11 @@ JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Pac
 ● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
 
 ## Technologies	       
-Programming Languages:</br>
- C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
-Frameworks/Libraries: </br>
- React, React Native, Spring MVC, Spring Boot, ExpressJS, REST, GraphQL, Hibernate, Sequelize, Mongoose, Sass, TensorFlow, Unity, Unreal Engine, Cocoa Touch, UIKit, SwiftUI, Kafka, Expo</br>
-DevOps:</br>
- AWS, GCP, Node.js, CI/CD- GitHub, Jenkins, IAC- Ansible, Terraform, CloudFormation, Kubernetes, Docker, Istio</br>
-Tools: </br>
- Figma, Maven, Packer, Blender, Git, SVN, SonarQube, Splunk, Jira, Fluentd, Prometheus, Grafana, Kibana, Xcode</br>
-Databases: </br>
- Oracle, PostgreSQL, MySQL, SQLite, NoSQL- MongoDB, Elasticsearch, Firebase</br>
+<i>Programming Languages:</i> C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
+<i>Frameworks/Libraries:</i> React, React Native, Spring MVC, Spring Boot, ExpressJS, REST, GraphQL, Hibernate, Sequelize, Mongoose, Sass, TensorFlow, Unity, Unreal Engine, Cocoa Touch, UIKit, SwiftUI, Kafka, Expo</br>
+<i>DevOps:</i> AWS, GCP, Node.js, CI/CD- GitHub, Jenkins, IAC- Ansible, Terraform, CloudFormation, Kubernetes, Docker, Istio</br>
+<i>Tools:</i> Figma, Maven, Packer, Blender, Git, SVN, SonarQube, Splunk, Jira, Fluentd, Prometheus, Grafana, Kibana, Xcode</br>
+<i>Databases:</i> Oracle, PostgreSQL, MySQL, SQLite, NoSQL- MongoDB, Elasticsearch, Firebase</br>
 
 ## Work Experience
 ### iOS Engineer Intern
@@ -62,22 +57,22 @@ Databases: </br>
 ● Improved customer experience by providing optimized capture and upload of bank-check images and automated deposit features.</br>
 ● Took a leadership role in Scrum ceremonies like Sprint PI planning, Capacity Management, Backlog Grooming, and User Story definitions.</br>
 ● Designed, implemented, and tested APIs in the bank’s check services domain. Recognized as a promising member from a team of 25.</br>
-● Technology Stack: Java, Spring MVC, REST API, SQL</br>
 ● Client: Bank of America</br>
+● Technology Stack: Java, Spring MVC, REST API, SQL</br>
 ### Senior Systems Engineer 
 #### Infosys Ltd. | Chennai, India | Dec 2017 – Aug 2020
 ● Created a new platform for client employees to view their schedules on upskilling with nil defects and boosted client satisfaction by 20%.</br>
 ● Designed, implemented, and tested custom RESTful web applications to enable employee scheduling and upskilling.</br>
 ● Conducted code reviews and strategized on improving code quality and delivery speed by extensive unit test coverage & code practices. </br>
 ● Tech debt: Migrated legacy C code to the Java platform by collaborating with an agile team of 15.</br>
-● Technology Stack: C, Java, Spring MVC, REST API, Hibernate</br>
 ● Clients: Verizon, AT&T</br>
+● Technology Stack: C, Java, Spring MVC, REST API, Hibernate</br>
 ### Systems Engineer
 #### Infosys Ltd. | Chennai, India | Dec 2015 – Dec 2017
 ● Resolved the most number of critical production defects amongst my team for which I was awarded certification opportunities.</br>
 ● Debugged and resolved production defects per SLA standards and maintained a good defect-resolving score for our project</br>
-● Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau</br>
 ● Client: AT&T</br>
+● Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau</br>
 
 <!--
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
