@@ -1,4 +1,4 @@
-### Hi there 👋    <p align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</p> 
+### Hi there 👋    <span align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</span> 
 ## Vignesh Gunasekaran
 <h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
 - 🌱 I’m currently: preparing for my full time job interviews.</br>
