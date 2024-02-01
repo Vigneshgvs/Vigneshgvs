@@ -16,27 +16,27 @@
 
 ### Academic Projects (in this repo)
 #### ConNect iOS App | Smartphones Based Web Development | INFO 6350 
-● Developed an iOS app that helps people connect to nearby persons’ social handles in real time. </br>
-● Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard</br>
+* Developed an iOS app that helps people connect to nearby persons’ social handles in real time. </br>
+* Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard</br>
 #### Distributed To-Do | Advanced Cloud Computing | CSYE 7125
-● Developed a to-do microservice, built it as a private docker image & deployed it using Helm Chart into HA K8s pods whose clusters are 
+* Developed a to-do microservice, built it as a private docker image & deployed it using Helm Chart into HA K8s pods whose clusters are 
 set up in AWS & GCP infrastructure that are built using Terraform. Published & consumed topics using Kafka. Logged with EFK stack &
 monitored metrics with Prometheus. Managed communication b/w microservices using Istio service mesh. Automated using Jenkins.</br>
-● Tech stack: AWS, GCP, Terraform, K8s, Docker, Ansible, SpringBoot, Jenkins, Kops, Elasticsearch, Prometheus, Kafka, Jenkins</br>
+* Tech stack: AWS, GCP, Terraform, K8s, Docker, Ansible, SpringBoot, Jenkins, Kops, Elasticsearch, Prometheus, Kafka, Jenkins</br>
 #### Hawaii Island | Building Virtual Environments | CSYE 7270
-● Developed an ‘Adventure Island’-like game and incorporated various Shaders, Materials, Particle Effects, Animations, and AI elements.</br>
-● Tech stack: Unity 3D, C#</br> 
+* Developed an ‘Adventure Island’-like game and incorporated various Shaders, Materials, Particle Effects, Animations, and AI elements.</br>
+* Tech stack: Unity 3D, C#</br> 
 #### Husky Profile | Network Structures and Cloud Computing | CSYE 6225 
-• Deployed node microservices on AWS with fully automated CI/CD pipelines for code build and deployed using GitHub Actions & Packer 
+* Deployed node microservices on AWS with fully automated CI/CD pipelines for code build and deployed using GitHub Actions & Packer 
 to build AMI & launched EC2 instances using the CloudFormation infrastructure template.</br>
-• Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
+* Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
 JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Packer</br>
 #### NEU First Response | Application Engineering and Development | INFO 5100 
 * Developed an emergency management system to offer prevention, handling, and documentation of incidents for university members.</br>
 * Tech stack: Java, Swing, db4o</br>
 #### NEU Tweet | Web Design and User Experience | INFO 6150 
-● Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.</br>
-● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
+* Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.</br>
+* Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
 
 <!--
 ## About me
