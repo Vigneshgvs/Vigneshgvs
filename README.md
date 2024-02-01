@@ -1,42 +1,46 @@
 ### Hi there 👋    <span align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</span> 
 ## Vignesh Gunasekaran
-<h4 border-bottom='none'>Northeastern University | MS in Information Systems | December 2023 Graduate</h4>
+<h4> Open To Work | Software Developer opportunities </h4>
+<h4> Experienced Java Backend Developer | iOS Engineer </h4>
+<h4 border-bottom='none'> Master's Graduate | Northeastern University | MS in Information Systems </h4>
+<h4> Java | React | React Native | iOS | AWS | Kubernetes </h4>
 - 🌱 I’m currently: preparing for my full time job interviews.</br>
-- 👯 I’m looking to collaborate on recent technologies.</br>
+- 👯 I’m looking to collaborate on new technologies.</br>
 - 🤔 I’m looking for help with full time opportunities.</br>
 - 💬 Ask me about:  my projects, work experience, or engage in a discussion to determine if I'd be a valuable addition to your team.</br>
-- 📫 How to reach me: Mail me at gunasekaran.v@northeastern.edu</br>
+- 📫 How to reach me: Email me at gunasekaran.v@northeastern.edu</br>
 - 😄 Pronouns: He/Him/His</br>
 - ⚡ Fun fact: "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in their world!" 🎃🎄😆 #ProgrammingPuzzles #NerdyHumor</br>
-  
-## About me
-~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
-~ Looking for full time employment opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
-~ I have work experience of over 5 years as a Java bck end developer and an internship in app development. </br>
 
-## Academic Projects
-### Con Nect iOS App | Smartphones Based Web Development | INFO 6350 | Fall 2022
+## Academic Projects (in this repo)
+### Con Nect iOS App | Smartphones Based Web Development | INFO 6350 
 ● Developed an iOS app that helps people connect to nearby persons’ social handles in real time. </br>
 ● Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard</br>
-### Distributed Computing | Advanced Cloud Computing | CSYE 7125 | Fall 2022
+### Distributed Computing | Advanced Cloud Computing | CSYE 7125
 ● Developed a to-do microservice, built it as a private docker image & deployed it using Helm Chart into HA K8s pods whose clusters are 
 set up in AWS & GCP infrastructure that are built using Terraform. Published & consumed topics using Kafka. Logged with EFK stack &
 monitored metrics with Prometheus. Managed communication b/w microservices using Istio service mesh. Automated using Jenkins.</br>
 ● Tech stack: AWS, GCP, Terraform, K8s, Docker, Ansible, SpringBoot, Jenkins, Kops, Elasticsearch, Prometheus, Kafka, Jenkins</br>
-### Hawaii Island | Building Virtual Environments | CSYE 7270 | Summer 2022
+### Hawaii Island | Building Virtual Environments | CSYE 7270
 ● Developed an ‘Adventure Island’-like game and incorporated various Shaders, Materials, Particle Effects, Animations, and AI elements.</br>
 ● Tech stack: Unity 3D, C#</br>
-### Cloud Image Storage Services | Network Structures and Cloud Computing | CSYE 6225 | Spring 2022
+### Cloud Image Storage Services | Network Structures and Cloud Computing | CSYE 6225 
 ● Deployed node microservices on AWS with fully automated CI/CD pipelines for code build and deployed using GitHub Actions & Packer 
 to build AMI & launched EC2 instances using the CloudFormation infrastructure template.</br>
 ● Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
 JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Packer</br>
-### NEU First Response | Application Engineering and Development | INFO 5100 | Fall 2021
+### NEU First Response | Application Engineering and Development | INFO 5100 
 ● Developed an emergency management system to offer prevention, handling, and documentation of incidents for university members.</br>
 ● Tech stack: Java, Swing, db4o</br>
-### NEU Tweet | Web Design and User Experience | INFO 6150| Fall 2021
+### NEU Tweet | Web Design and User Experience | INFO 6150 
 ● Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.</br>
 ● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
+
+<!--
+## About me
+~ I am a graduate student in Information Systems major at NEU @ Boston.</br>
+~ Looking for full time employment opportunities in SDE or Full-stack or DevOps or App Dev for December 23 onwards.</br>
+~ I have work experience of over 5 years as a Java back end developer and an internship in app development. </br>
 
 ## Technologies	       
 <i style="font-size: smaller;">Programming Languages:</i>	C, C++, Java, JavaScript, HTML, CSS, C#, SQL, Python, Go, Swift</br>
@@ -73,6 +77,7 @@ JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Pac
 ● Debugged and resolved production defects per SLA standards and maintained a good defect-resolving score for our project</br>
 ● Client: AT&T</br>
 ● Technology Stack: Python, Java, ATG, HTML, CSS, JavaScript, Tableau</br>
+-->
 
 <!--
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
