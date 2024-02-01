@@ -1,4 +1,6 @@
-### Hi there 👋    <span align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</span> 
+### Hi there 👋    
+<!-- <span align='right'>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVigneshgvs%2FVigneshgvs&count_bg=%23AEF17B&title_bg=%23585452&icon=addthis.svg&icon_color=%23F1EBEB&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</span> 
+-->
 ## Vignesh Gunasekaran
 <h4> Open To Work | Software Developer opportunities </h4>
 <h4> Experienced Java Backend Developer | iOS Engineer </h4>
@@ -13,10 +15,10 @@
 - ⚡ Fun fact: "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in their world!" 🎃🎄😆 #ProgrammingPuzzles #NerdyHumor</br>
 
 ## Academic Projects (in this repo)
-### Con Nect iOS App | Smartphones Based Web Development | INFO 6350 
+### ConNect iOS App | Smartphones Based Web Development | INFO 6350 
 ● Developed an iOS app that helps people connect to nearby persons’ social handles in real time. </br>
 ● Tech stack: iOS, Swift, Xcode, SwiftUI, UIKit, Storyboard</br>
-### Distributed Computing | Advanced Cloud Computing | CSYE 7125
+### Distributed To-Do | Advanced Cloud Computing | CSYE 7125
 ● Developed a to-do microservice, built it as a private docker image & deployed it using Helm Chart into HA K8s pods whose clusters are 
 set up in AWS & GCP infrastructure that are built using Terraform. Published & consumed topics using Kafka. Logged with EFK stack &
 monitored metrics with Prometheus. Managed communication b/w microservices using Istio service mesh. Automated using Jenkins.</br>
@@ -24,7 +26,7 @@ monitored metrics with Prometheus. Managed communication b/w microservices using
 ### Hawaii Island | Building Virtual Environments | CSYE 7270
 ● Developed an ‘Adventure Island’-like game and incorporated various Shaders, Materials, Particle Effects, Animations, and AI elements.</br>
 ● Tech stack: Unity 3D, C#</br>
-### Cloud Image Storage Services | Network Structures and Cloud Computing | CSYE 6225 
+### Husky Profile | Network Structures and Cloud Computing | CSYE 6225 
 ● Deployed node microservices on AWS with fully automated CI/CD pipelines for code build and deployed using GitHub Actions & Packer 
 to build AMI & launched EC2 instances using the CloudFormation infrastructure template.</br>
 ● Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
