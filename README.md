@@ -6,6 +6,7 @@
 <h4> Experienced Java Backend Developer | iOS Engineer </h4>
 <h4 border-bottom='none'> Master's Graduate | Northeastern University | MS in Information Systems </h4>
 <h4> Java | React | React Native | iOS | AWS | Kubernetes </h4>
+
 - 🌱 I’m currently: preparing for my full time job interviews.</br>
 - 👯 I’m looking to collaborate on new technologies.</br>
 - 🤔 I’m looking for help with full time opportunities.</br>
