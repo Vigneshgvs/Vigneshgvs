@@ -32,8 +32,8 @@ to build AMI & launched EC2 instances using the CloudFormation infrastructure te
 • Tech stack: AWS – CloudFormation, VPC, EC2, IAM, Route53, S3, SES, CloudWatch, CodeDeploy, DynamoDB, Lambda, SNS, KMS; 
 JavaScript, node.js, Express.js, REST API, Sequelize, MySQL, GitHub Actions, Packer</br>
 #### NEU First Response | Application Engineering and Development | INFO 5100 
-● Developed an emergency management system to offer prevention, handling, and documentation of incidents for university members.</br>
-● Tech stack: Java, Swing, db4o</br>
+* Developed an emergency management system to offer prevention, handling, and documentation of incidents for university members.</br>
+* Tech stack: Java, Swing, db4o</br>
 #### NEU Tweet | Web Design and User Experience | INFO 6150 
 ● Developed a Twitter-like web application in MERN stack for university members to express their views as tweets & assist in networking.</br>
 ● Tech stack: React.js, Figma, HTML5, CSS3, Sass, JavaScript ES6, NodeJS, React Router, Redux, REST API, Mongoose, MongoDB, JSON</br>
